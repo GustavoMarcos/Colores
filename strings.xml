@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Colores</string>
+
+    <string name="informacao">Bem-vindo ao Colores</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_tela_de_teste1">telaDeTeste1</string>
+    <string name="title_activity_tele_de_teste2">teleDeTeste2</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_tela_de_teste2">telaDeTeste2</string>
+
+
+</resources>
